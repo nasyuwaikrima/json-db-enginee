@@ -1,0 +1,39 @@
+{
+  "name": "json-db-engine",
+  "version": "1.0.0",
+  "description": "Database Management System sederhana menggunakan JSON dan Node.js File System",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node example.js",
+    "dev": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "crud",
+    "file-system",
+    "node.js",
+    "javascript",
+    "learning"
+  ],
+  "author": {
+    "name": "Nasyuwa",
+    "email": "nasyuwa648@gmail.com",
+    "url": "https://github.com/wa130"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wa130/json-db-enginee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wa130/json-db-enginee/issues"
+  },
+  "homepage": "https://github.com/wa130/json-db-enginee#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {}
+}
