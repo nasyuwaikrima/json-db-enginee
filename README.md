@@ -1,4 +1,4 @@
-# LearnJS - Database Management System
+# json-db-enginee - Database Management System
 
 Selamat datang! Ini adalah project pembelajaran saya untuk memahami cara membuat sistem manajemen database sederhana menggunakan JavaScript dan Node.js.
 
