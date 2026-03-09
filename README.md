@@ -281,7 +281,7 @@ Dibuat sebagai bagian dari perjalanan pembelajaran JavaScript dan Node.js dari n
 
 **Nama:** Nasyuwa  
 **Email:** nasyuwa648@gmail.com  
-**GitHub:** [@wa130](https://github.com/wa130)
+**GitHub:** [@nasyuwaikrima](https://github.com/nasyuwaikrima)
 
 ## 📄 License
 
