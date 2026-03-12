@@ -37,6 +37,11 @@ json-db-enginee/
 - Node.js versi 12 atau lebih tinggi
 - Text Editor/IDE (VS Code, dll)
 
+### clone project
+```bash
+git clone https://github.com/nasyuwaikrima/json-db-enginee.git
+```
+
 ### Install Dependencies
 ```bash
 npm install
