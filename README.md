@@ -42,6 +42,9 @@ json-db-enginee/
 git clone https://github.com/nasyuwaikrima/json-db-enginee.git
 ```
 
+### masuk directory project
+```cd json-db-enginee```
+
 ### Install Dependencies
 ```bash
 npm install
