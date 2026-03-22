@@ -204,10 +204,6 @@ Anda bebas untuk:
 - ✅ Memodifikasi dan mengubah kode sesuai kebutuhan
 - ✅ Mendistribusikan ulang project ini
 - ✅ Menggunakan project ini sebagai basis untuk project lain
-
-Dengan syarat:
-- 📋 Menyertakan lisensi dan copyright notice dalam setiap distribusi
-
 ---
 
 **Happy Learning & Coding!** 🚀✨
