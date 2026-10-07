@@ -85,7 +85,7 @@ json-db-engine/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/nasyuwaikrima/json-db-engine.git
+git clone https://github.com/nasyuwaikrima/json-db-enginee.git
 ```
 
 ## Navigate to Project Directory
