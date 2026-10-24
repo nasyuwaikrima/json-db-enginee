@@ -91,7 +91,7 @@ git clone https://github.com/nasyuwaikrima/json-db-enginee.git
 ## Navigate to Project Directory
 
 ```bash
-cd json-db-engine
+cd json-db-enginee
 ```
 
 ## Install Dependencies
